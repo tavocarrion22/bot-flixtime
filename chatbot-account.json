@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flixtime-venezuela-pb9k",
+  "private_key_id": "5ae98de78d29e11a7dbacc5e6f6aa2f363e5f4dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw4XtqJuWONipM\nY9gY7W+AvfzWnbNKWlGLaql8Z3aKVHsojWYd5IXmCJUAZB2SEcdymnKmBgmCL8Mj\njSwQuDsH8LlJn6Ji6gHTXScSwhN1YTwSLiuuDNJPx/hTbRSbFbc+5HVKpTBGf7pU\nZQ/Qdt1ATTLRAiEfyuZ3JuyaINFDriV3+9ix4im1z2aq3zwyjh5aE9DXjbG+fKGX\n5Z17y1UGlzyfyoHPUrQYUzkI0+dO/xvSNobUSzrbFDEnlvn2TWnLiRtvMJIKjcpm\nmHv+bBOnTl21TtoZ4N+G4BVQb8wtfjffTO2fAXm3pISbmJUjaY9EsxLezHH7TGCd\nGI2nd3TDAgMBAAECggEAFHn4l7iABkoRSdLx1H+W0xXAvDb5Ef2fB1+Q1lTYkrlR\nS/JZOihXMzhBc5BOIgz1L2MKLFvHjwQozX1NdslfwBK8iHWL+XJzRVI5MJaPZR0d\nX1IWqWlU5s/UrhJoem71ozi/C/tP5DbAzdNTP4P7J13904IGbqVGWnstlHGBzZlH\nx5iLF105pPGO3eLc5z7YxljhF79ZoUPZail2lBjazwUhPHozeppvLernZ1N2H3mX\npX/tu0NLF6lUVNzjNq3TlYEmc2u4MvvjCle/84gMjTXfHxP5h7KNaoBHr+7AXUf6\nqno1ACigDWgTM6ZrZqUbVlYFx6GIXOnq/3wDXNLGQQKBgQDo1K/R1O55+OTACdgU\n87cidmmqdMpxbo66ML/XRBV1SNc+rPzeKntcAJKo/7WfGTEVNhjN/FYR2hKxZXL4\naWENUoRgCbwVkdpijzOviH4eAhFHUzWYJizsV7msI1OlGYM6Zsh0GnzpUb0GFzpv\nyawTs/36JZnXGk9Jdlxn60BmwQKBgQDCe3shgYyYwlYzZ8JGVe8PA84SL8BXnP+O\nd9ZhhCatzPhRFMXkIfwDSoyJmCFAzklIn87ylnN4MDEmSe+uCm70Dl3rx+kOtgIh\nz91uFv0oZw2wtm3559KeQfjKPycy7//Iio6mGhP1KIFUOWpjG9PmT+daNQdB0pC+\n5pE4fBrggwKBgQCH5Xwp0UrQToHVxOkmcYn2x36tSzXON2V/L20JzGdp6XYY0wdU\n9R7DeGIh2f68Ogv4AXdA44OpL8uxVzFf5MIM8JjrJUNuo47/7+2PCu/xu+sx4lNp\n1v5phFqPKp9rwhRiRhPCEKPP2zGlGHG3RdL2PRyEoOXGM0kL69XLofgZAQKBgQCH\nfC6TcQTZhsk2lpopFcSs2SG+WbXNU3pVbfbTiJTJj3mOQsJ545MFV/IACRNhalRz\nW6F4LofSuwAChI+M14fkTf3wPByIOxPRKlZAU5OZifFnoi+LYYzA44TGoKhWPAwd\nUSl/Xbt5lvZCDp2m3cQJNrEdjsO3f1GHLGkOyKaQsQKBgAdXbTrzx5PGNM6PN3qy\nVKLLQUZukahCnEMRPisizWTJbCxEW361iuz8SQvNnL4wt9v5/hLvkUPCAHKe347e\nznx9DdRDIIhHj9YbFp6g+Azb62XOaU90d3hqpsPNi0u5UCwsX7GepeI1+dOOFc4i\ng2ZQBvw0gcF5uGsrc5QUHqB+\n-----END PRIVATE KEY-----\n",
+  "client_email": "flixtimebot@flixtime-venezuela-pb9k.iam.gserviceaccount.com",
+  "client_id": "103176588067729431441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flixtimebot%40flixtime-venezuela-pb9k.iam.gserviceaccount.com"
+}
